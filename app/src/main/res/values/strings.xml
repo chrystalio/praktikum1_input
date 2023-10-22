@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">praktikum1_input</string>
+    <string name="masukkan_tulisan">Masukkan Tulisan</string>
+    <string name="empty">-</string>
+</resources>
